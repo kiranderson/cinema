@@ -1,7 +1,7 @@
 ---
 layout: "post"
-title: "Multiple Galleries"
-subtitle: "A post with multiple galleries arranged with ISOTOPE"
+title: "Несколько галерей"
+subtitle: "Пост с несколькими галереями, организованными с помощью ISOTOPE"
 active: "journal"
 image:
   feature: "pc007.jpg"
@@ -46,9 +46,9 @@ gallery2:
 
 
 
-<p> Content of your post HERE </p>
+<p> Содержание вашего сообщения находится ЗДЕСЬ </p>
 
-<p> Add as many paragraphs amongst your galleries as you want. </p>
+<p> Добавьте столько абзацев среди своих галерей, сколько хотите. </p>
 
 
            <!-- Gallery __-->
@@ -57,7 +57,7 @@ gallery2:
 
 <!-- end of GALLERY __ -->
 
-<p> Add as many galleries as you want, including as many photos as you want. Simply edit the <b>FRONT MATTER</b> of the post, adding the corresponding <b>path</b>, <b>caption</b> and <b>copyright</b> info for each one of your photos. </p>
+<p> Добавьте столько галерей, сколько хотите, включая столько фотографий, сколько хотите. Просто отредактируйте <b>FRONT MATTER</b> поста, добавив соответствующий <b>путь</b>, <b>подпись</b> и <b>копирайт</b> информацию для каждой из ваших фотографий. </p>
 
            <!-- Gallery __-->
 			
@@ -69,4 +69,4 @@ gallery2:
 	</section>
 
 
-Photography by: <a href="https://unsplash.com/photos/j0g8taxHZa0">UNSPLASH</a>
+Фотография взята с: <a href="https://unsplash.com/photos/j0g8taxHZa0">UNSPLASH</a>
