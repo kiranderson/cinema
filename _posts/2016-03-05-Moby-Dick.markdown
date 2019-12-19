@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Новый год"
+title:      "С Новым годом дорогие наши"
 subtitle:   "Ваши родители"
 active: journal
 image:
