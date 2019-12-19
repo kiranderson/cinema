@@ -5,10 +5,10 @@ subtitle:   "Ваши родители"
 active: journal
 image:
   feature: "pc005.jpg"
-date:       2016-03-05 
+date:       2020-01-01 
 header-img: "img/postcover/pc005.jpg"
-tags: [tag02]
-categories: [cat03]
+tags: [Праздник]
+categories: [Новый год]
 comments: false
 ---
 
