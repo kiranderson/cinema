@@ -75,12 +75,12 @@ layout: default
                 <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
-                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Предыдущая запись</a>
                     </li>
                     {% endif %}
                     {% if page.next.url %}
                     <li class="next">
-                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Следующая запись &rarr;</a>
                     </li>
                     {% endif %}
                 </ul>
@@ -98,7 +98,7 @@ layout: default
 
   <div class="section-heading group" style="color: #fff; text-align: center; margin-top: 10px;">
 
-    <h3>Tags Cloud</h3>
+    <h3>Облако тегов</h3>
 
   </div>
 
@@ -139,7 +139,7 @@ layout: default
 
   <div class="section-heading group" style="color: #fff; text-align: center; margin-top: 10px;">
 
-    <h3>Categories Cloud</h3>
+    <h3>Облако категорий</h3>
 
   </div>
 
