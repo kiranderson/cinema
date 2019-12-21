@@ -1,18 +1,18 @@
 ---
 layout:     post
 title:      "С Новым годом дорогие наши"
-subtitle:   "Ваши родители"
+subtitle:   "Желаем вам счастья"
 active: journal
 image:
   feature: "pc005.jpg"
 date:       2020-01-01 
 header-img: "img/postcover/pc005.jpg"
-tags: [Праздник]
-categories: [Новый год]
+tags: [Новый год]
+categories: [Праздник]
 comments: false
 ---
 
 <p>Наши дорогие и любимые детки! Поздравляем вас с наступающим новым 2020 годом! Желаем счастья, любви, взаимного уважения друг к другу и огромной удачи во всех ваших путешествиях и приключениях!</p>
 
 <p></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-wr1-v8XwZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mmlsrQxGkkE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
