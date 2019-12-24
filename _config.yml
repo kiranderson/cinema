@@ -18,7 +18,7 @@ owner:
   name:   kiranderson
   avatar: avatar.png
   favicon: favicon.ico
-  info: шаблон сайта фотографии
+  info: По мотивам сайта kiranderson.com
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
