@@ -5,7 +5,7 @@ subtitle:   "Желаем вам счастья"
 active: journal
 image:
   feature: "pc005.jpg"
-date:       2020-01-01 
+date:       2016-03-01 
 header-img: "img/postcover/pc005.jpg"
 tags: [Новый год]
 categories: [Праздник]
