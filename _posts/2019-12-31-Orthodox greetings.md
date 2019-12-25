@@ -12,4 +12,6 @@ comments: "true"
 <h2>Пусть в Новый год Господь благословляет и шлет добрую надежду и светлую удачу, искреннее счастье и радужный мир, 
 верную любовь и огромную радость. Пусть сердце любит и поет, а душа стремится к благим деяниям и великим целям!</h2>
 <br>
-!(https://github.com/kiranderson/cinema/blob/gh-pages/img/1-14.jpg)
+![Привет](https://github.com/kiranderson/cinema/blob/gh-pages/img/1-14.jpg)
+
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
