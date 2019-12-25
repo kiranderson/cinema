@@ -126,9 +126,9 @@ gallery10:
 
 
 
-<p> Содержание вашего сообщения находится ЗДЕСЬ </p>
+<p> Театральные артисты </p>
 
-<p> Добавьте столько абзацев среди своих галерей, сколько хотите. </p>
+<p> Интервью в РИАНОВОСТЯХ </p>
 
 
            <!-- Gallery __-->
@@ -139,25 +139,43 @@ gallery10:
 
 <p> Добавьте столько галерей, сколько хотите, включая столько фотографий, сколько хотите. Просто отредактируйте <b>FRONT MATTER</b> поста, добавив соответствующий <b>путь</b>, <b>подпись</b> и <b>копирайт</b> информацию для каждой из ваших фотографий. </p>
 
+<p>Ресторанная еда</p>
+
            <!-- Gallery __-->
 			
 {% include subgallery.html id="gallery2" %}
 
 <!-- end of GALLERY __ -->
 
+<p>Сёрфингист на тренировке</p>
+
 {% include subgallery.html id="gallery3" %}
+
+<p>Интерьер квартиры</p>
 
 {% include subgallery.html id="gallery4" %}
 
+<p>Город Коломна</p>
+
 {% include subgallery.html id="gallery5" %}
+
+<p>Мурманская область</p>
 
 {% include subgallery.html id="gallery6" %}
 
+<p>Репортаж с мероприятия</p>
+
 {% include subgallery.html id="gallery7" %}
+
+<p>Ресторан</p>
 
 {% include subgallery.html id="gallery8" %}
 
+<p>Женские сумки</p>
+
 {% include subgallery.html id="gallery9" %}
+
+<p>Будни безопасности</p>
 
 {% include subgallery.html id="gallery10" %}
 
