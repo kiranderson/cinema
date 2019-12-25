@@ -38,7 +38,76 @@ gallery3:
   - image_path: /img/galleries/g03/bg3.jpg
     image-caption: Название фотографии
     image-copyright: © kiranderson 
-
+gallery4: 
+  - image_path: /img/galleries/g04/bg1.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson
+  - image_path: /img/galleries/g04/bg2.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson
+  - image_path: /img/galleries/g04/bg3.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson
+gallery5: 
+  - image_path: /img/galleries/g05/bg1.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson
+  - image_path: /img/galleries/g05/bg2.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson
+  - image_path: /img/galleries/g05/bg3.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson 
+gallery6: 
+  - image_path: /img/galleries/g06/bg1.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson
+  - image_path: /img/galleries/g06/bg2.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson
+  - image_path: /img/galleries/g06/bg3.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson 
+gallery7: 
+  - image_path: /img/galleries/g07/bg1.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson
+  - image_path: /img/galleries/g07/bg2.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson
+  - image_path: /img/galleries/g07/bg3.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson 
+gallery8: 
+  - image_path: /img/galleries/g08/bg1.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson
+  - image_path: /img/galleries/g08/bg2.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson
+  - image_path: /img/galleries/g08/bg3.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson
+gallery9: 
+  - image_path: /img/galleries/g09/bg1.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson
+  - image_path: /img/galleries/g09/bg2.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson
+  - image_path: /img/galleries/g09/bg3.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson 
+gallery10: 
+  - image_path: /img/galleries/g10/bg1.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson
+  - image_path: /img/galleries/g10/bg2.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson
+  - image_path: /img/galleries/g10/bg3.jpg
+    image-caption: Название фотографии
+    image-copyright: © kiranderson
 ---
 
 
@@ -76,8 +145,23 @@ gallery3:
 
 <!-- end of GALLERY __ -->
 
+{% include subgallery.html id="gallery3" %}
+
+{% include subgallery.html id="gallery4" %}
+
+{% include subgallery.html id="gallery5" %}
+
+{% include subgallery.html id="gallery6" %}
+
+{% include subgallery.html id="gallery7" %}
+
+{% include subgallery.html id="gallery8" %}
+
+{% include subgallery.html id="gallery9" %}
+
+{% include subgallery.html id="gallery10" %}
+
 		</div><!-- end of WRAPPER __ -->
 	</section>
 
 
-Фотография взята с: <a href="https://unsplash.com/photos/j0g8taxHZa0">UNSPLASH</a>
