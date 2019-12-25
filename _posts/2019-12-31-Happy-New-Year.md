@@ -5,7 +5,7 @@ subtitle:   "Ирис Ревю"
 active: journal
 image:
   feature: "pc006.jpg"
-date:       2016-03-01 
+date:       2019-12-31 
 header-img: "img/postcover/pc006.jpg"
 tags: [Новый год]
 categories: [Сказка]
