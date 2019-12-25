@@ -15,5 +15,5 @@ comments: "true"
 
 ![Фото Оля](https://i.pinimg.com/564x/b5/26/30/b5263076f05be38a7a079d204dd2c4ff.jpg)
 
-![Поздравление](https://github.com/kiranderson/cinema/blob/gh-pages/img/1-14.jpg)
+![Поздравление](https://bestcube.space/wp-content/uploads/1-14.jpg)
 
