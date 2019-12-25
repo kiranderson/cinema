@@ -121,13 +121,13 @@ gallery10:
 <section id="content" role="main">
 		<div class="wrapper">
 	<br><br>
-			<h2>{{page.title}}</h2>
+			<h1>{{page.title}}</h1>
 
 
 
-
+<br>
 <h2> Театральные артисты. Интервью в РИАНОВОСТЯХ</h2>
-
+<br>
 
            <!-- Gallery __-->
 			
@@ -138,7 +138,7 @@ gallery10:
 <p> Добавьте столько галерей, сколько хотите, включая столько фотографий, сколько хотите. Просто отредактируйте <b>FRONT MATTER</b> поста, добавив соответствующий <b>путь</b>, <b>подпись</b> и <b>копирайт</b> информацию для каждой из ваших фотографий. </p>
 
 <h2>Ресторанная еда</h2>
-
+<br>
            <!-- Gallery __-->
 			
 {% include subgallery.html id="gallery2" %}
@@ -146,35 +146,35 @@ gallery10:
 <!-- end of GALLERY __ -->
 
 <h2>Сёрфингист на тренировке</h2>
-
+<br>
 {% include subgallery.html id="gallery3" %}
 
 <h2>Интерьер квартиры</h2>
-
+<br>
 {% include subgallery.html id="gallery4" %}
 
 <h2>Город Коломна</h2>
-
+<br>
 {% include subgallery.html id="gallery5" %}
 
 <h2>Мурманская область</h2>
-
+<br>
 {% include subgallery.html id="gallery6" %}
 
 <h2>Репортаж с мероприятия</h2>
-
+<br>
 {% include subgallery.html id="gallery7" %}
 
 <h2>Ресторан</h2>
-
+<br>
 {% include subgallery.html id="gallery8" %}
 
 <h2>Женские сумки</h2>
-
+<br>
 {% include subgallery.html id="gallery9" %}
 
 <h2>Будни безопасности</h2>
-
+<br>
 {% include subgallery.html id="gallery10" %}
 
 		</div><!-- end of WRAPPER __ -->
