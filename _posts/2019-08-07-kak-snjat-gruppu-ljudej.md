@@ -21,13 +21,8 @@ table, th, td {
 </style>
 
 <table style="width:100%">
-  <tr>
-    <th></th>
-    <th></th> 
-  </tr>
-  <tr>
-    <td><img src="https://static-cdn3.vigbo.tech/u37110/50491/blog/3983954/4298134/55445475/500-kiranderson-896bc7a31766848d111c66bd32767796.jpg" width="240"  height="140"/></td>
-    <td><img src="https://static-cdn3.vigbo.tech/u37110/50491/blog/3983954/4298134/55445475/500-kiranderson-9ebe6e1b3a0b1e5c56d49efe577e7f86.jpg" width="240"  height="140"/></td>
+ <td><img src="https://static-cdn3.vigbo.tech/u37110/50491/blog/3983954/4298134/55445475/500-kiranderson-896bc7a31766848d111c66bd32767796.jpg" width="500"  height="287"/></td>
+ <td><img src="https://static-cdn3.vigbo.tech/u37110/50491/blog/3983954/4298134/55445475/500-kiranderson-9ebe6e1b3a0b1e5c56d49efe577e7f86.jpg" width="500"  height="287"/></td>
   </tr>
   <tr>
     <td>Eve</td>
