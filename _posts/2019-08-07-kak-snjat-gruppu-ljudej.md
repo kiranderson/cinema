@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Alice in Wonderland"
-subtitle:   "Lewis Carroll"
+title:      "Содержанки"
+subtitle:   "Как снять группу людей с постановочным светом"
 active: journal
 image:
   feature: "Sod.jpg"
