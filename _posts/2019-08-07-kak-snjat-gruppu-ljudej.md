@@ -15,8 +15,8 @@ comments: false
 Для начала очень тщательно нужно подобрать локацию, учесть наличие достаточного места для установки света, возможности его крепления на потолок, этаж, на который придется все заносить, возможность светить через окна или избавиться от паразитного света, поступающего через них. Также важно расположение окон в кадре, так как скорее всего состояние за окном измениться, а в кадре это не всегда желательно видеть.</p>
 
 <table style="width:100%">
- <td><img src="https://static-cdn3.vigbo.tech/u37110/50491/blog/3983954/4298134/55445475/500-kiranderson-896bc7a31766848d111c66bd32767796.jpg" width="400"  height="287"/></td>
- <td><img src="https://static-cdn3.vigbo.tech/u37110/50491/blog/3983954/4298134/55445475/500-kiranderson-9ebe6e1b3a0b1e5c56d49efe577e7f86.jpg" width="400"  height="287"/></td>
+ <td><img src="https://static-cdn3.vigbo.tech/u37110/50491/blog/3983954/4298134/55445475/500-kiranderson-896bc7a31766848d111c66bd32767796.jpg" width="300"  height="287"/></td>
+ <td><img src="https://static-cdn3.vigbo.tech/u37110/50491/blog/3983954/4298134/55445475/500-kiranderson-9ebe6e1b3a0b1e5c56d49efe577e7f86.jpg" width="300"  height="287"/></td>
   </tr>
   <tr>
     <td>Eve</td>
