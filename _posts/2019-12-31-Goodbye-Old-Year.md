@@ -7,8 +7,8 @@ image:
   feature: "pc006.jpg"
 date:       2019-12-31 
 header-img: "img/postcover/pc006.jpg"
-tags: [новый_год]
-categories: [сказка]
+tags: [новый_год, декабрь]
+categories: [сказка, видео]
 comments: false
 ---
 
