@@ -22,12 +22,12 @@ table, th, td {
 
 <table style="width:100%">
   <tr>
-    <th>![](https://static-cdn3.vigbo.tech/u37110/50491/blog/3983954/4298134/55445475/500-kiranderson-896bc7a31766848d111c66bd32767796.jpg)</th>
-    <th>![](https://static-cdn3.vigbo.tech/u37110/50491/blog/3983954/4298134/55445475/500-kiranderson-9ebe6e1b3a0b1e5c56d49efe577e7f86.jpg)</th> 
+    <th>https://static-cdn3.vigbo.tech/u37110/50491/blog/3983954/4298134/55445475/500-kiranderson-896bc7a31766848d111c66bd32767796.jpg</th>
+    <th>https://static-cdn3.vigbo.tech/u37110/50491/blog/3983954/4298134/55445475/500-kiranderson-9ebe6e1b3a0b1e5c56d49efe577e7f86.jpg</th> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
+    <td><img src="https://static-cdn3.vigbo.tech/u37110/50491/blog/3983954/4298134/55445475/500-kiranderson-896bc7a31766848d111c66bd32767796.jpg" width="120"  height="70"/></td>
+    <td><img src="https://static-cdn3.vigbo.tech/u37110/50491/blog/3983954/4298134/55445475/500-kiranderson-9ebe6e1b3a0b1e5c56d49efe577e7f86.jpg" width="120"  height="70"/></td>
   </tr>
   <tr>
     <td>Eve</td>
