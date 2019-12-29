@@ -7,7 +7,7 @@ image:
   feature: "pc005.jpg"
 date:       2020-01-01 
 header-img: "img/postcover/pc005.jpg"
-tags: [новый_год, январь]
+tags: [новыйгод, январь]
 categories: [праздник, видео]
 comments: false
 ---
