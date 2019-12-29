@@ -7,7 +7,7 @@ image:
   feature: "pc008.jpg"
 date: "2019-12-31"
 header-img: "img/postcover/pc008.jpg"
-tags: [новый_год, декабрь]
+tags: [новыйгод, декабрь]
 categories: [праздник, фото]
 comments: "true"
 ---
