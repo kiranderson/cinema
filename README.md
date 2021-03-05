@@ -7,6 +7,7 @@ p h o t o r a m a
 
 ---> [DEMO](https://sunbliss.github.io/photorama/ "DEMO")  <---
 
+---> [DEMO Мой новый сайт](https://kiranderson.github.io/cinema/ "DEMO")  <---
 ----------
 
 A theme for **jekyll**. 
