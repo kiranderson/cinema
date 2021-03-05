@@ -3,7 +3,7 @@ p h o t o r a m a
 
 ![photorama](https://raw.githubusercontent.com/sunbliss/photorama/gh-pages/photorama_thumb.gif)
 
-![kiranderson](https://raw.github.com/kiranderson/cinema/blob/gh-pages/kiranderson.jpg)
+![kiranderson](https://github.com/kiranderson/cinema/blob/gh-pages/kiranderson.jpg)
 
 
 ----------
