@@ -1,6 +1,6 @@
 # Site settings
 title: KIRANDERSON
-email: ""
+email: "hello@kiranderson.com"
 description: "Фото журнал"
 url: "https://kiranderson.github.io"
 baseurl: "/cinema"
@@ -33,7 +33,8 @@ comments :
 
 # Internal nav
 nav:
-  - ГАЛЛЕРЕЯ: "https://kiranderson.github.io/cinema/gallery/"  
+  - ГАЛЛЕРЕЯ: "https://kiranderson.github.io/cinema/gallery/"
+  - ВИДЕО: "https://kiranderson.github.io/cinema/gallery/"
   - БЛОГ: "https://kiranderson.github.io/cinema/journal/"
   - О НАС: "https://kiranderson.github.io/cinema/about/"
 
@@ -56,7 +57,8 @@ paginate_path: "/journal/page:num/"
 permalink: "/journal/:title/"
 categories_path: "/journal/category/"
 tags_path: "/journal/tag/"
-gems: 
+gems:
+ - jekyll-seo-tag
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
