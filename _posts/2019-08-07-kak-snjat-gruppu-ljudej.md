@@ -11,6 +11,22 @@ tags: [август, девушка]
 categories: [видео, свет]
 comments: false
 ---
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(96501532, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/96501532" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
 <p>Итак, перед вами стоит задача снять группу общающихся между собой людей. Итоговый результат зависит от нескольких важных параметров.
 Для начала очень тщательно нужно подобрать локацию, учесть наличие достаточного места для установки света, возможности его крепления на потолок, этаж, на который придется все заносить, возможность светить через окна или избавиться от паразитного света, поступающего через них. Также важно расположение окон в кадре, так как скорее всего состояние за окном измениться, а в кадре это не всегда желательно видеть.</p>
 ![](https://static-cdn3.vigbo.tech/u37110/50491/blog/3983954/4298134/55445475/500-kiranderson-ae80403c19964c055ff65ef5cad18a76.jpg)
