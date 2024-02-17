@@ -11,7 +11,22 @@ tags: [новыйгод, декабрь]
 categories: [сказка, видео]
 comments: false
 ---
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
 
+   ym(96501532, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/96501532" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
 <div class="entry-content cf">
 		<p><a><img align="middle" title="Сказка на ночь про Новый год. Читать и слушать" src="http://detskiychas.ru/files/pics/2017/12/dedmoroz_i_babayaga.jpg" alt="Сказка на ночь про Новый год. Читать и слушать" width="225" height="223"></a></p>
 <p><audio controls="controls"><source src="http://detskiychas.ru/files/audio/s_iris_pro_noviy_god6m42s.mp3" type="audio/mpeg"></audio></p>
