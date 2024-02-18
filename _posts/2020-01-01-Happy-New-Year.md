@@ -14,6 +14,7 @@ author:
   url: https://ru.kiranderson.com/
   image: "assets/KirAnderson.jpg"
   alt: кинооператор Kir Аnderson
+thumbnail:    KirAnderson.jpg
 locale: "ru_RU"
 type: "article"
 tags: [новыйгод, январь]
