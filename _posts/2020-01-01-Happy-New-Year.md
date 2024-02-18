@@ -12,6 +12,7 @@ author:
   name: Кирилл Иосипенко
   url: https://ru.kiranderson.com/
   image: https://static-cdn4-2.vigbo.tech/u37110/122628/blog/6313988/5966857/78563766/1000-4055006aa43cf0886af853eb533cdeae.jpg
+  thumbnail: basicallybasic.png
   alt: кинооператор Kir Аnderson
 locale: "ru_RU"
 type: "article"  
