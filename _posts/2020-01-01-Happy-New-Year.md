@@ -11,7 +11,7 @@ header-img: "img/postcover/pc005.jpg"
 author:
   name: Кирилл Иосипенко
   url: https://ru.kiranderson.com/
-  image: cinema/KirAnderson.jpg
+  image: "cinema/KirAnderson.jpg"
   alt: кинооператор Kir Аnderson
 locale: "ru_RU"
 type: "article"
