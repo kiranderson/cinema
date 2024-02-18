@@ -6,7 +6,8 @@ description: "Привет и мои поздравления с Новым го
 active: journal
 image:
   feature: "pc005.jpg"
-datePublished: 2023-01-01
+datePublished: 2022-01-01
+dateModified: 2023-01-01
 header-img: "img/postcover/pc005.jpg"
 author:
   name: Кирилл Иосипенко
