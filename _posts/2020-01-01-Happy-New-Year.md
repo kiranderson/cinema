@@ -3,9 +3,6 @@ layout:     post
 title:      "С Новым годом дорогие наши"
 subtitle:   "Желаем вам счастья"
 description: "Привет и мои поздравления с Новым годом!"
-  brand: "KirAnderson"
-  awards: "Золотой пеликан"
-  slogan: "Кино это жизнь"
 active: journal
 image:
   feature: "pc005.jpg"
