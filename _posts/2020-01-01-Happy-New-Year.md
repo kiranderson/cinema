@@ -13,6 +13,9 @@ author:
   url: https://ru.kiranderson.com/
   image: https://static-cdn4-2.vigbo.tech/u37110/122628/blog/6313988/5966857/78563766/1000-4055006aa43cf0886af853eb533cdeae.jpg
   alt: кинооператор Kir Аnderson
+  brand: "KirAnderson"
+  awards: "Золотой пеликан"
+  slogan: "Кино это жизнь"
 locale: "ru_RU"
 type: "article"  
 tags: [новыйгод, январь]
