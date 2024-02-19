@@ -34,7 +34,7 @@ comments :
 # Internal nav
 nav:
   - ГАЛЛЕРЕЯ: "https://kiranderson.github.io/cinema/gallery/"
-  - ВИДЕО: "https://kiranderson.github.io/cinema/gallery/"
+  - ВИДЕО: "https://kiranderson.github.io/cinema/video/"
   - БЛОГ: "https://kiranderson.github.io/cinema/journal/"
   - О НАС: "https://kiranderson.github.io/cinema/about/"
 
