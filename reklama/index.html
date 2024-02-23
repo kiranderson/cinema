@@ -1,0 +1,141 @@
+---
+layout: page
+title: "Заголовок"
+description: "Краткое описание"
+active: reklama
+header-img: "img/gallery-bg.jpg"
+images:
+ - image_path: /reklama/albums/alb01.jpg
+   gallery-folder: /reklama/gallery01/
+   gallery-name: Поэзия нашего городка
+   gallery-date: Июль 2015
+ - image_path: /reklama/albums/alb02.jpg
+   gallery-folder: /reklama/gallery02/
+   gallery-name: Кулинарные мастера
+   gallery-date: Июнь 2015
+ - image_path: /reklama/albums/alb03.jpg
+   gallery-folder: /reklama/gallery03/
+   gallery-name: Сёрфинг
+   gallery-date: Май 2015
+ - image_path: /reklama/albums/alb04.jpg
+   gallery-folder: /reklama/gallery04/
+   gallery-name: Галлерея № 4
+   gallery-date: Апрель 2015
+ - image_path: /reklama/albums/alb05.jpg
+   gallery-folder: /reklama/gallery05/
+   gallery-name: Галлерея № 5
+   gallery-date: Март 2015
+ - image_path: /reklama/albums/alb06.jpg
+   gallery-folder: /reklama/gallery06/
+   gallery-name: Галлерея № 6
+   gallery-date: Февраль 2015
+ - image_path: /reklama/albums/alb07.jpg
+   gallery-folder: /reklama/gallery07/
+   gallery-name: Галлерея № 7
+   gallery-date: Январь 2015
+ - image_path: /reklama/albums/alb08.jpg
+   gallery-folder: /reklama/gallery08/
+   gallery-name: Галлерея № 8
+   gallery-date: Декабрь 2014
+ - image_path: /reklama/albums/alb09.jpg
+   gallery-folder: /reklama/gallery09/
+   gallery-name: Галлерея № 9
+   gallery-date: Ноябрь 2014
+ - image_path: /reklama/albums/alb10.jpg
+   gallery-folder: /reklama/gallery10/
+   gallery-name: Галлерея № 10
+   gallery-date: Декабрь 2019
+author:
+  name: Кирилл Иосипенко
+  url: https://ru.kiranderson.com/
+  image: assets/KirAnderson.jpg
+  alt: кинооператор Kir Аnderson
+image: assets/KirAnderson.jpg
+thumbnail:    KirAnderson.jpg
+locale: "ru_RU"
+type: "article"
+tags: [новыйгод, январь]
+categories: [праздник, видео]
+comments: false
+---
+
+<html class="no-js" lang="ru">
+<head>
+	<meta content="charset=utf-8">
+	<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(96501532, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/96501532" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+    <link rel="stylesheet" href="{{ "/css/selena.css" | prepend: site.baseurl }}">
+</head>
+
+
+    <body class="gallery">
+ 
+	<section id="content" role="main">
+		<div class="wrapper">
+	
+			<h2>{{page.title}}</h2>
+			
+			<!-- Gallery __-->
+			<div class="gallery masonry-gallery">
+				
+{% for image in page.images %}  	
+
+	               <figure class="gallery-item">
+                         <figure class="effect-selena">
+					<header class='gallery-icon'>
+		       
+<a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">
+<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
+
+					</header>	
+					<figcaption class='gallery-caption'>
+						<div class="entry-summary">
+							<h3>{{image.gallery-name}}</h3>
+							<p>{{image.gallery-date}}</p>
+						</div>
+					</figcaption>
+                       </figure>
+				</figure>
+							
+{% endfor %}		
+				
+			</div>
+			
+		</div><!-- END .wrapper -->
+	</section>
+
+
+<br>
+
+<!-- jQuery -->    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/js/retina.min.js"></script>
+<!-- include Masonry -->
+<script src="{{ site.baseurl }}/js/isotope.pkgd.min.js"></script> 
+<!-- include mousewheel plugins -->
+<script src="{{ site.baseurl }}/js/jquery.mousewheel.min.js"></script>
+<!-- include carousel plugins -->
+<script src="{{ site.baseurl}}/js/jquery.tinycarousel.min.js"></script>
+<!-- include svg line drawing plugin -->
+<script src="{{ site.baseurl }}/js/jquery.lazylinepainter.min.js"></script>
+<!-- include custom script -->
+<script src="{{ site.baseurl }}/js/scripts.js"></script>
+<!-- Modernizr -->
+ <script src="{{ site.baseurl }}/js/modernizr.js"></script>
+
+</body></html>
