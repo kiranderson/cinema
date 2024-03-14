@@ -17,7 +17,7 @@ author:
 thumbnail:    KirAnderson.jpg
 locale: "ru_RU"
 type: "article"
-tags: [новыйгод, 2024, январь]
+tags: [новыйгод, январь]
 categories: [праздник, видео]
 comments: false
 ---
