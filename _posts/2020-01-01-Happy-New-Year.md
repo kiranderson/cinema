@@ -8,8 +8,8 @@ description: Основными направлениями нашей работ
 active: journal
 image:
   - feature: "pc005.jpg"
-  - "https://example.com/photos/1x1/photo.jpg",
-  - "https://example.com/photos/4x3/photo.jpg",
+  - "https://example.com/photos/1x1/photo.jpg"
+  - "https://example.com/photos/4x3/photo.jpg"
   - "https://example.com/photos/16x9/photo.jpg"
 datePublished: 2022-01-01
 dateModified: 2023-01-01
