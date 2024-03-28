@@ -20,6 +20,41 @@ type: "article"
 tags: [новыйгод, январь]
 categories: [праздник, видео]
 comments: false
+'@context': https://schema.org/
+'@type': EntertainmentBusiness
+name: Видеостудия 'KirAnderson'
+address:
+  '@type': PostalAddress
+  postalCode: '115230'
+  streetAddress: Электролитный пр-д, д. 3Б, стр. 6
+  addressCountry: Россия
+  addressRegion: Московская область
+  addressLocality: Москва
+  telephone: +7 (916) 216-116-0
+image:
+  - >-
+    https://static-cdn4-2.vigbo.tech/u37110/122628/blog/6313984/5966847/78563666/2000-kiranderson-9eb32617e838d859c82722f55431f31a.jpg
+  - >-
+    https://static-cdn4-2.vigbo.tech/u37110/122628/blog/6313988/5966857/78563766/1000-4055006aa43cf0886af853eb533cdeae.jpg
+geo:
+  '@type': GeoCoordinates
+  latitude: '55.67603195780292'
+  longitude: '37.61301661445062'
+telephone: +7 (916) 216-116-0
+url: https://ru.kiranderson.com
+logo: ''
+contactPoint:
+  '@type': ContactPoint
+  contactType: Техническая поддержка
+  telephone: +7(977) 342-72-64
+  email: hello@kiranderson.com
+slogan: '''Кино это жизнь'''
+description: >-
+  Основными направлениями нашей работы являются организация и проведение
+  рекламных съемок, съемок художественных и документальных фильмов,
+  аэрофотосъемка
+hasMap: https://g.page/KirAnderson?share
+openingHours: Mo, Tu, We, Th, Fr 10:00-18:00
 ---
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
