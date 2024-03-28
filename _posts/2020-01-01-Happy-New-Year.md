@@ -35,6 +35,8 @@ comments: false
         accurateTrackBounce:true
    });
 </script>
+<noscript><div><img src="https://mc.yandex.ru/watch/96501532" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
 <script>
   {
   "@context": "https://schema.org/",
@@ -73,8 +75,7 @@ comments: false
   "openingHours": "Mo, Tu, We, Th, Fr 10:00-18:00"
 }
 </script>
-<noscript><div><img src="https://mc.yandex.ru/watch/96501532" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+
 <p>Наши дорогие и любимые! Поздравляем вас с наступающим новым 2020 годом! Желаем счастья, любви, взаимного уважения друг к другу и огромной удачи во всех ваших путешествиях и приключениях!</p>
 
 <p></p>
