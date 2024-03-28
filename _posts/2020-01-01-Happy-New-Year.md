@@ -7,7 +7,7 @@ description: Основными направлениями нашей работ
   аэрофотосъемка
 active: journal
 image:
-  feature: "pc005.jpg"
+  - feature: "pc005.jpg"
   - "https://example.com/photos/1x1/photo.jpg",
   - "https://example.com/photos/4x3/photo.jpg",
   - "https://example.com/photos/16x9/photo.jpg"
