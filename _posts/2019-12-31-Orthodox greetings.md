@@ -4,9 +4,9 @@ title: "Православное Новогоднее поздравление"
 subtitle: "Счастья вам"
 active: "journal"
 image:
-  feature: "pc008.jpg"
+  feature: "pc008.webp"
 date: "2019-12-31"
-header-img: "img/postcover/pc008.jpg"
+header-img: "img/postcover/pc008.webp"
 description: "Православный праздник это здорово. Мои поздравления вам"
 author:
   name: Марина Чекмарёва

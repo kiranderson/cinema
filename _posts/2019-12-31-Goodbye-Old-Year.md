@@ -4,9 +4,9 @@ title:      "Сказка на ночь про Новый год"
 subtitle:   "Ирис Ревю"
 active: journal
 image:
-  feature: "pc006.jpg"
+  feature: "pc006.webp"
 date:       2019-12-31 
-header-img: "img/postcover/pc006.jpg"
+header-img: "img/postcover/pc006.webp"
 tags: [новыйгод, декабрь]
 categories: [сказка, видео]
 comments: false

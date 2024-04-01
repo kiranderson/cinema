@@ -7,10 +7,10 @@ description: Основными направлениями нашей работ
   аэрофотосъемка
 active: journal
 image:
-  feature: "pc005.jpg"
+  feature: "pc005.webp"
 datePublished: 2022-01-01
 dateModified: 2023-01-01
-header-img: "img/postcover/pc005.jpg"
+header-img: "img/postcover/pc005.webp"
 author:
   name: Кирилл Иосипенко
   url: https://ru.kiranderson.com/

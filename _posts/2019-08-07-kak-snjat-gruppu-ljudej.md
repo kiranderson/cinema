@@ -4,9 +4,9 @@ title:      "Содержанки"
 subtitle:   "Как снять группу людей с постановочным светом"
 active: journal
 image:
-  feature: "Sod.jpg"
+  feature: "Sod.webp"
 date:       2019-08-07
-header-img: "img/postcover/Sod.jpg"
+header-img: "img/postcover/Sod.webp"
 tags: [август, девушка]
 categories: [видео, свет]
 comments: false
