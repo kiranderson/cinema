@@ -183,6 +183,7 @@ hr.small {
 }
 .intro-header .post-heading h1 {
   font-size: 35px;
+  text-shadow: 1px 1px 10px black, 0 0 25px blue, 0 0 5px darkblue;
 }
 .intro-header .post-heading .subheading,
 .intro-header .post-heading .meta {
@@ -208,6 +209,7 @@ hr.small {
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
     font-size: 55px;
+    text-shadow: 1px 1px 10px black, 0 0 25px blue, 0 0 5px darkblue;
   }
   .intro-header .post-heading .subheading {
     font-size: 30px;
